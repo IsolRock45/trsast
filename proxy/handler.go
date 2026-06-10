@@ -1,13 +1,14 @@
 package proxy
 
 import (
-    "crypto/tls"
-    "io"
-    "net/http"
-    "net/url"
-    "strings"
+	"crypto/tls"
+	"fmt"
+	"io"
+	"net/http"
+	"net/url"
+	"strings"
 
-    "viagogo-phish/config"
+	"trsast/config"
 )
 
 type ProxyHandler struct {
