@@ -1,4 +1,4 @@
-module viagogo-phish
+module trsast
 
 go 1.22
 

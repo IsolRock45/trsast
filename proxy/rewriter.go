@@ -4,7 +4,7 @@ import (
     "bytes"
     "strings"
 
-    "viagogo-phish/config"
+    "trsast/config"
 
     "github.com/PuerkitoBio/goquery"
 )

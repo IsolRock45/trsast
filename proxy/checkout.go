@@ -4,7 +4,7 @@ import (
     "net/http"
     "strings"
 
-    "viagogo-phish/config"
+    "trsast/config"
 )
 
 type CheckoutHandler struct {

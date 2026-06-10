@@ -4,8 +4,8 @@ import (
     "log"
     "net/http"
 
-    "viagogo-phish/config"
-    "viagogo-phish/proxy"
+    "trsast/config"
+    "trsast/proxy"
 
     "github.com/go-chi/chi/v5"
     "github.com/go-chi/chi/v5/middleware"
